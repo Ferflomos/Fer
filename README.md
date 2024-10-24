@@ -1,5 +1,4 @@
 # Marlon Travel App
-# Marlon Travel App
 
 ## Descripción
 Marlon Travel App es una aplicación web que permite a los usuarios consultar el clima actual de diferentes ciudades y calcular su presupuesto de viaje en la moneda local.
@@ -11,8 +10,8 @@ Marlon Travel App es una aplicación web que permite a los usuarios consultar el
 ## Tecnologías utilizadas
 - PHP (Laravel)
 - MySQL
-- JavaScript (jQuery o Angular)
-- API de clima y cambio de moneda
+- JavaScript (jQuery)
+- API de clima (openweathermap) y cambio de moneda
 
 ## Instalación
 1. Clona este repositorio.
@@ -21,10 +20,8 @@ Marlon Travel App es una aplicación web que permite a los usuarios consultar el
 4. Ejecuta la aplicación.
 
 ## Uso
-Abre el archivo `index.php` en tu navegador para acceder a la aplicación.
+Abre el archivo `index.blade.php` en tu navegador para acceder a la aplicación.
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT.
+Este proyecto no tiene licencia.
